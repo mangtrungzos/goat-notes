@@ -6,7 +6,7 @@ function Header() {
         <header>
             <Link href="/">
                 <Image 
-                    src="/public/goatius.png"
+                    src="/goatius.png"
                     height={60}
                     width={60}
                     alt="logo"
